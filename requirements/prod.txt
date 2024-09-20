@@ -10,7 +10,7 @@
 # Templates
 -e git://github.com/jbalogh/jingo.git#egg=jingo
 -e git://github.com/jsocol/jingo-minify.git#egg=jingo-minify
-GitPython==0.1.7
+GitPython==3.1.41
 
 # Various tidbits
 -e git://github.com/jsocol/commonware.git#egg=commonware
